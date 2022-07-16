@@ -10,3 +10,4 @@ if exist vgk.sys (
     	rename vgk_off.sys vgk.sys
     	rename vgtray_off.exe vgtray.exe
     	cscript "C:\Program Files\Riot Vanguard\Scripts\Enable Vanguard.vbs"
+)
