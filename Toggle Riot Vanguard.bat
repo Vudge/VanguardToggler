@@ -1,3 +1,4 @@
+@echo off
 pushd "C:\Program Files\Riot Vanguard"
 
 if exist "vgk.sys" (
